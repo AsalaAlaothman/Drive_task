@@ -1,0 +1,14 @@
+{
+    "web": {
+        "client_id": "519901904242-kak5u9j3d4u85qb92entkuesrt0omfpo.apps.googleusercontent.com",
+        "project_id": "yii2-task",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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"
+        ,   
+        "redirect_uris": [
+            "http://127.0.0.1:8080/index.php?r=site%2Fabout"
+        ]
+    }
+}
